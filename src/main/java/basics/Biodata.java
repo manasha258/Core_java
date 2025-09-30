@@ -9,5 +9,6 @@ public class Biodata {
         System.out.println("Height:156");
         System.out.println("Weight:49");
         System.out.println("helloo");
+        System.out.println("Hai how are u");
     }
 }
