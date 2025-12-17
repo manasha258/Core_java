@@ -1,6 +1,7 @@
 package basics.Variables;
 
-public class var {
+
+public class var1 {
     static int age=20;
     float height=5.5f;    //Instance variable
     public  void Access()
@@ -17,7 +18,7 @@ public class var {
 
         //We can thecreate the object
         //classname objectname = new classname();
-         var vv= new var();
+        var1 vv= new var1();
         vv.Access();
 
     }
