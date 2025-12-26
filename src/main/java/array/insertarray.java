@@ -7,6 +7,8 @@ public class insertarray {
         names[0]=30;
         names[3]=20;
         names[1]=11;
+        names[4]=82;
         System.out.println(Arrays.toString(names));
     }
 }
+
